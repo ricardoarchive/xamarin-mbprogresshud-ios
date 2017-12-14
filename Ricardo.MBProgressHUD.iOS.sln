@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ricardo.MBProgressHUD.iOS", "Ricardo.MBProgressHUD.iOS\Ricardo.MBProgressHUD.iOS.csproj", "{47067B0B-E45D-4EA9-9372-92C46D065CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47067B0B-E45D-4EA9-9372-92C46D065CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47067B0B-E45D-4EA9-9372-92C46D065CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47067B0B-E45D-4EA9-9372-92C46D065CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47067B0B-E45D-4EA9-9372-92C46D065CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
